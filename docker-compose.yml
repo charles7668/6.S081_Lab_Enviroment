@@ -1,0 +1,6 @@
+version: "3"
+services:
+  6s081Lab:
+    image: 6s081Lab:latest
+    ports:
+      - 3333:22
