@@ -5,6 +5,7 @@ This repository contains a Dockerfile that builds a Docker image capable of runn
 # Requirment
 
 1. [Docker](https://www.docker.com/)
+2. SSH Client
 
 # How to use
 
