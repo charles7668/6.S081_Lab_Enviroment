@@ -1,6 +1,6 @@
 version: "3"
 services:
   6s081Lab:
-    image: 6s081Lab:latest
+    image: 6s081:latest
     ports:
       - 3333:22
